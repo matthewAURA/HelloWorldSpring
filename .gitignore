@@ -7,5 +7,5 @@ release.properties
 #eclipse
 .classpath
 .project
-.settings
+.settings/
 target/
